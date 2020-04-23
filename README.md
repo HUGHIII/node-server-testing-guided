@@ -9,4 +9,4 @@ Guided project for **Node Server Testing** Module.
 - [ ] type `npm i` to download dependencies.
 - [ ] type `npm run server` to start the API.
 
-Please follow along as the instructor adds automated tests to the API.
+Please follow along as the instructor adds automated tests to the API.\*
